@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /categories/
+Allow: /tags/ 
+Allow: /operation/
+Allow: /technology/
+Disallow: /archives/
+Disallow: /about/
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Disallow: /atom.xml
+
+Sitemap: http://devtor.cn/sitemap.xml

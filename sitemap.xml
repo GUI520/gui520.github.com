@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://devtor.cn/operation/docker-tomcat.html</loc>
+    
+    <lastmod>2017-12-11T14:35:27.918Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://devtor.cn/operation/ubuntu-install-docker.html</loc>
     
     <lastmod>2017-12-11T12:17:39.080Z</lastmod>

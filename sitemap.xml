@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://devtor.cn/operation/ubuntu-install-docker.html</loc>
+    
+    <lastmod>2017-12-11T12:17:39.080Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://devtor.cn/about/index.html</loc>
     
     <lastmod>2017-12-11T11:50:36.167Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://devtor.cn/technology/ZF-Evaluation.html</loc>
     
     <lastmod>2017-12-09T07:08:10.082Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://devtor.cn/operation/ubuntu-install-docker.html</loc>
-    
-    <lastmod>2017-12-09T05:02:20.686Z</lastmod>
     
   </url>
   

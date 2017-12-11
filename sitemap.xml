@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://devtor.cn/technology/MyBatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B.html</loc>
+    <loc>http://devtor.cn/about/index.html</loc>
     
-    <lastmod>2017-12-09T14:50:10.472Z</lastmod>
+    <lastmod>2017-12-11T11:50:36.167Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://devtor.cn/about/index.html</loc>
+    <loc>http://devtor.cn/operation/docker-mysql.html</loc>
     
-    <lastmod>2017-12-09T07:49:34.283Z</lastmod>
+    <lastmod>2017-12-11T11:14:05.705Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://devtor.cn/operation/docker-framework.html</loc>
+    
+    <lastmod>2017-12-11T11:13:51.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://devtor.cn/technology/MyBatis-generator.html</loc>
+    
+    <lastmod>2017-12-10T05:29:22.085Z</lastmod>
     
   </url>
   

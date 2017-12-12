@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://devtor.cn/operation/docker-nginx.html</loc>
+    
+    <lastmod>2017-12-12T02:45:44.850Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://devtor.cn/operation/gogs-and-linux-shares-port22.html</loc>
+    
+    <lastmod>2017-12-12T02:31:41.336Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://devtor.cn/operation/docker-gogs.html</loc>
     
     <lastmod>2017-12-11T16:04:52.010Z</lastmod>

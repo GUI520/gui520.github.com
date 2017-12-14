@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://devtor.cn/technology/java-project-airticket.html</loc>
+    
+    <lastmod>2017-12-14T08:36:54.793Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://devtor.cn/operation/docker-nginx.html</loc>
     
     <lastmod>2017-12-12T08:01:23.936Z</lastmod>

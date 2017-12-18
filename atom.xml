@@ -5,9 +5,9 @@
   <subtitle>ZengGUI 的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://devtor.cn/"/>
+  <link href="https://devtor.cn/"/>
   <updated>2017-12-10T05:29:22.085Z</updated>
-  <id>http://devtor.cn/</id>
+  <id>https://devtor.cn/</id>
   
   <author>
     <name>ZengGUI</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MyBatis逆向工程</title>
-    <link href="http://devtor.cn/technology/MyBatis-generator.html"/>
-    <id>http://devtor.cn/technology/MyBatis-generator.html</id>
+    <link href="https://devtor.cn/technology/MyBatis-generator.html"/>
+    <id>https://devtor.cn/technology/MyBatis-generator.html</id>
     <published>2017-12-09T12:21:08.000Z</published>
     <updated>2017-12-10T05:29:22.085Z</updated>
     
@@ -34,19 +34,19 @@
     
     </summary>
     
-      <category term="technology" scheme="http://devtor.cn/categories/technology/"/>
+      <category term="technology" scheme="https://devtor.cn/categories/technology/"/>
     
     
-      <category term="Java" scheme="http://devtor.cn/tags/Java/"/>
+      <category term="Java" scheme="https://devtor.cn/tags/Java/"/>
     
-      <category term="MyBatis" scheme="http://devtor.cn/tags/MyBatis/"/>
+      <category term="MyBatis" scheme="https://devtor.cn/tags/MyBatis/"/>
     
   </entry>
   
   <entry>
     <title>Gogs与Linux共享SSH22端口</title>
-    <link href="http://devtor.cn/operation/gogs-and-linux-shares-port22.html"/>
-    <id>http://devtor.cn/operation/gogs-and-linux-shares-port22.html</id>
+    <link href="https://devtor.cn/operation/gogs-and-linux-shares-port22.html"/>
+    <id>https://devtor.cn/operation/gogs-and-linux-shares-port22.html</id>
     <published>2017-11-12T11:06:34.000Z</published>
     <updated>2017-12-12T02:31:41.336Z</updated>
     
@@ -58,19 +58,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Docker部署(五):Nginx and 反向代理配置</title>
-    <link href="http://devtor.cn/operation/docker-nginx.html"/>
-    <id>http://devtor.cn/operation/docker-nginx.html</id>
+    <link href="https://devtor.cn/operation/docker-nginx.html"/>
+    <id>https://devtor.cn/operation/docker-nginx.html</id>
     <published>2017-08-09T02:44:27.000Z</published>
     <updated>2017-12-12T08:01:23.936Z</updated>
     
@@ -82,19 +82,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Docker部署(四):Gogs</title>
-    <link href="http://devtor.cn/operation/docker-gogs.html"/>
-    <id>http://devtor.cn/operation/docker-gogs.html</id>
+    <link href="https://devtor.cn/operation/docker-gogs.html"/>
+    <id>https://devtor.cn/operation/docker-gogs.html</id>
     <published>2017-08-08T13:05:52.000Z</published>
     <updated>2017-12-11T16:04:52.010Z</updated>
     
@@ -106,19 +106,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Docker部署(三):Apache Tomcat</title>
-    <link href="http://devtor.cn/operation/docker-tomcat.html"/>
-    <id>http://devtor.cn/operation/docker-tomcat.html</id>
+    <link href="https://devtor.cn/operation/docker-tomcat.html"/>
+    <id>https://devtor.cn/operation/docker-tomcat.html</id>
     <published>2017-08-07T13:01:57.000Z</published>
     <updated>2017-12-11T14:35:27.918Z</updated>
     
@@ -130,19 +130,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Docker部署(二):MySQL数据库</title>
-    <link href="http://devtor.cn/operation/docker-mysql.html"/>
-    <id>http://devtor.cn/operation/docker-mysql.html</id>
+    <link href="https://devtor.cn/operation/docker-mysql.html"/>
+    <id>https://devtor.cn/operation/docker-mysql.html</id>
     <published>2017-08-06T07:31:19.000Z</published>
     <updated>2017-12-11T11:14:05.705Z</updated>
     
@@ -159,19 +159,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Docker部署(一):服务器架构</title>
-    <link href="http://devtor.cn/operation/docker-framework.html"/>
-    <id>http://devtor.cn/operation/docker-framework.html</id>
+    <link href="https://devtor.cn/operation/docker-framework.html"/>
+    <id>https://devtor.cn/operation/docker-framework.html</id>
     <published>2017-08-06T05:58:11.000Z</published>
     <updated>2017-12-12T07:53:30.358Z</updated>
     
@@ -183,19 +183,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>JavaWeb项目-飞机票预订管理系统</title>
-    <link href="http://devtor.cn/technology/java-project-airticket.html"/>
-    <id>http://devtor.cn/technology/java-project-airticket.html</id>
+    <link href="https://devtor.cn/technology/java-project-airticket.html"/>
+    <id>https://devtor.cn/technology/java-project-airticket.html</id>
     <published>2017-06-22T08:13:51.000Z</published>
     <updated>2017-12-14T08:36:54.793Z</updated>
     
@@ -207,17 +207,17 @@
     
     </summary>
     
-      <category term="technology" scheme="http://devtor.cn/categories/technology/"/>
+      <category term="technology" scheme="https://devtor.cn/categories/technology/"/>
     
     
-      <category term="Java" scheme="http://devtor.cn/tags/Java/"/>
+      <category term="Java" scheme="https://devtor.cn/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>正方教务系统-批量自动评价教学质量评价功能</title>
-    <link href="http://devtor.cn/technology/ZF-Evaluation.html"/>
-    <id>http://devtor.cn/technology/ZF-Evaluation.html</id>
+    <link href="https://devtor.cn/technology/ZF-Evaluation.html"/>
+    <id>https://devtor.cn/technology/ZF-Evaluation.html</id>
     <published>2017-06-08T07:30:30.000Z</published>
     <updated>2017-12-09T07:08:10.082Z</updated>
     
@@ -229,17 +229,17 @@
     
     </summary>
     
-      <category term="technology" scheme="http://devtor.cn/categories/technology/"/>
+      <category term="technology" scheme="https://devtor.cn/categories/technology/"/>
     
     
-      <category term="JavaScript" scheme="http://devtor.cn/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://devtor.cn/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>Centos安装Docker CE并配置加速器</title>
-    <link href="http://devtor.cn/operation/centos-install-dockerce.html"/>
-    <id>http://devtor.cn/operation/centos-install-dockerce.html</id>
+    <link href="https://devtor.cn/operation/centos-install-dockerce.html"/>
+    <id>https://devtor.cn/operation/centos-install-dockerce.html</id>
     <published>2017-03-16T11:43:00.000Z</published>
     <updated>2017-12-09T07:44:27.690Z</updated>
     
@@ -251,19 +251,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu安装Docker CE并配置加速器</title>
-    <link href="http://devtor.cn/operation/ubuntu-install-docker.html"/>
-    <id>http://devtor.cn/operation/ubuntu-install-docker.html</id>
+    <link href="https://devtor.cn/operation/ubuntu-install-docker.html"/>
+    <id>https://devtor.cn/operation/ubuntu-install-docker.html</id>
     <published>2017-03-13T15:50:00.000Z</published>
     <updated>2017-12-11T12:17:39.080Z</updated>
     
@@ -275,19 +275,19 @@
     
     </summary>
     
-      <category term="operation" scheme="http://devtor.cn/categories/operation/"/>
+      <category term="operation" scheme="https://devtor.cn/categories/operation/"/>
     
     
-      <category term="Linux" scheme="http://devtor.cn/tags/Linux/"/>
+      <category term="Linux" scheme="https://devtor.cn/tags/Linux/"/>
     
-      <category term="Docker" scheme="http://devtor.cn/tags/Docker/"/>
+      <category term="Docker" scheme="https://devtor.cn/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Java Byte数组与十六进制互转</title>
-    <link href="http://devtor.cn/technology/java-byte-hex.html"/>
-    <id>http://devtor.cn/technology/java-byte-hex.html</id>
+    <link href="https://devtor.cn/technology/java-byte-hex.html"/>
+    <id>https://devtor.cn/technology/java-byte-hex.html</id>
     <published>2017-03-10T15:33:04.000Z</published>
     <updated>2017-12-09T07:15:12.258Z</updated>
     
@@ -306,10 +306,10 @@
     
     </summary>
     
-      <category term="technology" scheme="http://devtor.cn/categories/technology/"/>
+      <category term="technology" scheme="https://devtor.cn/categories/technology/"/>
     
     
-      <category term="Java" scheme="http://devtor.cn/tags/Java/"/>
+      <category term="Java" scheme="https://devtor.cn/tags/Java/"/>
     
   </entry>
   
